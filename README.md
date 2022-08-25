@@ -1,6 +1,8 @@
-LocalDB Django REST API
+__LocalDB Django REST API__
 
 localdb-django-restapi  
+
+A projekt szerkezete és a lényegesebb fileok leírása:  
 
 =api  
 =-__ pycache __  
